@@ -1,0 +1,40 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  background-color: teal;
+  text-align: center;
+}
+h1{
+  font-size: 100px;
+  color: rgb(241, 237, 9);
+  font-style: oblique;
+  margin-top: -15px;
+}
+.box{
+    height: 150px;
+    width: 150px;
+    background-color: whitesmoke;
+    font-size: 100px;
+    border-radius: 1rem;
+    border: none;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+.row2{
+    margin-top: 3px;
+}
+.row3{
+    margin-top: 3px;
+}
+#reset_game{
+    /* padding: 1rem; */
+    font-size: 20px;
+    margin-top: 35px;
+    background-color: rgb(236, 194, 5);
+    border: none;
+    border-radius: 1rem;
+}
